@@ -1,4 +1,4 @@
-# Developer-Learning-Journal (Tr & Eng)
+# Developer-Learning-Journal (Tr & En)
 >
 
 <div align="center">
