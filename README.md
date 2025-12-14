@@ -1,4 +1,4 @@
-# Developer-Learning-Journal (Recent pdf is Tr)
+# Developer-Learning-Journal (Tr & Eng)
 >
 
 <div align="center">
