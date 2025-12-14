@@ -1,4 +1,6 @@
-# Developer-Learning-Journal (Tr & En)
+# Developer-Learning-Journal 
+####
+*(TR 🇹🇷 / EN 🇬🇧 – Two Versions)*
 >
 
 <div align="center">
@@ -149,11 +151,8 @@ This repository evolves as I learn. Every new concept, mistake, and insight beco
 
 > Learning is temporary. Documentation is permanent.
 
-# Developer-Learning-Journal
 
-# 📚 My Versatile Software Development Learning Journal
 
-*(TR 🇹🇷 / EN 🇬🇧 – Two Versions)*
 
 ---
 
