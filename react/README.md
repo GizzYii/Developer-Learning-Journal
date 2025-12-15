@@ -2,7 +2,7 @@
 <div align="center">
   <img 
     src="https://cdn.prod.website-files.com/6097e0eca1e875de53031ff6/664c7e22969bca29e70f5b5a_WhatsApp%20Image%202024-05-21%20at%2013.09.59.jpeg" 
-    width="120"
+    width="400"
     alt="React Logo"
   />
 </div>
