@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 What is Micro Frontend?
+## 📌 What is Micro Frontend? / Mikro Önuç Nedir?
 
 Micro Frontend, büyük frontend uygulamalarını **bağımsız, küçük ve yönetilebilir parçalara** ayırma mimarisidir.
 **(EN:** Micro Frontend is an architectural approach that breaks large frontend applications into **independent, small, and manageable pieces**.)
@@ -30,7 +30,7 @@ Her parça (micro app) kendi başına geliştirilebilir, test edilebilir ve depl
 
 ---
 
-## ⚙️ Why Vite + Module Federation?
+## ⚙️ Why Vite + Module Federation? / Neden vite+Modul Federation?
 
 ### Vite
 
@@ -46,7 +46,7 @@ Her parça (micro app) kendi başına geliştirilebilir, test edilebilir ve depl
 
 ---
 
-## 🧱 Architecture Overview
+## 🧱 Architecture Overview / Mimari Görünüm
 
 ```
 Host App (Shell)
