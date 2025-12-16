@@ -3,7 +3,7 @@
 | **English** | **Türkçe** |
 |------------|------------|
 | **1. HTTP Request (Client → Server)** | **1. HTTP İsteği (İstemci → Sunucu)** |
-| ![HTTP Request]([https://i.imgur.com/f1N03Qp.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzTVHpYrZxQA8cDwycR0YnMDCtCRKlpG9zBw&s)) | ![HTTP Request](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzTVHpYrZxQA8cDwycR0YnMDCtCRKlpG9zBw&s) |
+| ![HTTP Request]((https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzTVHpYrZxQA8cDwycR0YnMDCtCRKlpG9zBw&s)) | ![HTTP Request](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzTVHpYrZxQA8cDwycR0YnMDCtCRKlpG9zBw&s) |
 | A **Request** is sent by the client (browser, app) to ask the server for some data or action. It includes: <br>• **Method**: GET, POST, PUT, DELETE… <br>• **URL**: The address of the resource <br>• **Headers**: Extra info (like authentication, content-type) <br>• **Body**: Optional data (like form submission) | **İstek (Request)**, istemci (tarayıcı, uygulama) tarafından sunucuya veri almak veya işlem yapmak için gönderilir. İçeriği: <br>• **Method (Metot)**: GET, POST, PUT, DELETE… <br>• **URL**: Kaynağın adresi <br>• **Headers (Başlıklar)**: Ek bilgiler (ör. kimlik doğrulama, içerik tipi) <br>• **Body (Gövde)**: Opsiyonel veri (ör. form gönderimi) |
 
 | **English** | **Türkçe** |
