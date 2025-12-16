@@ -9,7 +9,7 @@
 | **English** | **Türkçe** |
 |------------|------------|
 | **2. HTTP Response (Server → Client)** | **2. HTTP Yanıtı (Sunucu → İstemci)** |
-| ![HTTP Response][(https://i.imgur.com/8f0kX0p.png](https://media.geeksforgeeks.org/wp-content/uploads/20210905094321/StructureOfAHTTPResponse-660x374.png)) | ![HTTP Response](https://media.geeksforgeeks.org/wp-content/uploads/20210905094321/StructureOfAHTTPResponse-660x374.png) |
+| ![HTTP Response](https://media.geeksforgeeks.org/wp-content/uploads/20210905094321/StructureOfAHTTPResponse-660x374.png)) | ![HTTP Response](https://media.geeksforgeeks.org/wp-content/uploads/20210905094321/StructureOfAHTTPResponse-660x374.png) |
 | A **Response** is what the server sends back to the client after processing the request. It includes: <br>• **Status Code**: 200 OK, 404 Not Found… <br>• **Headers**: Info about the response (content-type, cookies…) <br>• **Body**: The actual data (HTML, JSON, image…) | **Yanıt (Response)**, sunucunun isteği işledikten sonra istemciye gönderdiği bilgidir. İçeriği: <br>• **Durum Kodu (Status Code)**: 200 OK, 404 Not Found… <br>• **Başlıklar (Headers)**: Yanıt hakkında bilgiler (ör. içerik tipi, çerezler…) <br>• **Gövde (Body)**: Asıl veri (HTML, JSON, resim…) |
 
 | **English** | **Türkçe** |
