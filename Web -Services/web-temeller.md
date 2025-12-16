@@ -1,5 +1,9 @@
 # 🇹🇷 WEB TEMELLERİ (TR)
 
+Bu konu hakkında daha fazla detayı  
+[MDN Web Docs](https://developer.mozilla.org/) üzerinde bulabilirsiniz.
+
+
 ## Protokol Nedir?
 
 Protokol, bilgisayarların birbiriyle **nasıl iletişim kuracağını tanımlayan kurallar bütünüdür**.
