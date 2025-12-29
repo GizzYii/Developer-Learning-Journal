@@ -14,6 +14,7 @@
 | Diffing is **automatic**; developers guide it using best practices.       | Diff işlemi **otomatik**tir; geliştirici sadece doğru yönlendirir.                   |
 
 
+
 #Table 2: How React Uses Diff Algorithm
 | English Explanation                                                 | Türkçe Açıklama ve Kod                                                                                                        |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
