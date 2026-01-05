@@ -12,5 +12,3 @@
 - Data Link  
 - Physical
 
-## 🎥 Eğitim Videosu
-[📺 Videoyu İzle](videos/ag-temelleri.mp4)
