@@ -1,7 +1,7 @@
 ## 🧠 OSI Modeli
 
 
-![OSI Model Diagram](/unnamed.png)
+![OSI Model Diagram](/OSI/unnamed.png)
 
 **Katmanlar (Top → Bottom):**
 - Application  
